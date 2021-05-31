@@ -30,5 +30,8 @@
       "name": "Bolo6",
       "image": "img/bolo-6.jpeg"
     }
-  ]
+  ],
+    "profile": {
+    "name": "typicode"
+  }
 }
